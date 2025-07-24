@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Achini de Silva</h1>
-<h3 align="center">I’m interested in Web designing, video and photo editing and coding</h3>
+<h3 align="center">Interested in Web designing, video and photo editing and coding</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=achiniesandi&label=Profile%20views&color=0e75b6&style=flat" alt="achiniesandi" /> </p>
 
