@@ -80,9 +80,3 @@
 
 ## 💡 Fun Fact
 ✨ I enjoy combining **development + testing** to build software that not only works — but works *well*.
-
----
-
-<p align="center">
-  ⭐️ From <b>Achini de Silva</b>
-</p>
