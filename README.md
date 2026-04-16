@@ -5,7 +5,9 @@
   Passionate about building reliable, user-friendly applications and improving software quality through both development and testing.
 </p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=achiniEsandi&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
+</p>
 
 ## 🌟 About Me
 - 💻 Full Stack experience in **MERN Stack**
@@ -52,7 +54,7 @@
 
 ## 🚀 Recent Projects
 
-### 🎯 Visionary – AI Career Path Finder *(Ongoing)*
+### 🎯 Visionary – AI Career Path Finder
 - AI-powered system to recommend career paths
 - Based on user interests and academic data
 
