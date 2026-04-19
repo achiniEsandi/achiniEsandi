@@ -79,6 +79,5 @@
 - ⚡ Playwright Automation
 
 ---
-
 ## 💡 Fun Fact
 ✨ I enjoy combining **development + testing** to build software that not only works — but works *well*.
