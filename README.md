@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Achini de Silva</h1>
-<h3 align="center">💻 Full Stack Developer | QA Intern </h3>
 
 <p align="center">
   Passionate about building reliable, user-friendly applications and improving software quality through both development and testing.
@@ -11,7 +10,7 @@
 
 ## 🌟 About Me
 - 💻 Full Stack experience in **MERN Stack**
-- 🧪 Currently working as a **QA Intern**
+- 🧪 Currently working as a **Associate QA Engineer**
 - 🎯 Interested in building **scalable systems with high quality and usability**
 - 🎨 Enjoy **UI/UX Design, Video Editing & Creative Tech**
 - 📊 Exploring **Analytics & Predictive Systems. Also Automation**
